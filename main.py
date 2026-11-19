@@ -7,10 +7,13 @@ The day's defining story, carried by every major news roundup of 18 November
 Guard missile site on Qeshm Island in the Strait of Hormuz, and Iran answered
 with drone attacks on U.S.-linked bases in Kuwait and Bahrain, while Xi Jinping
 and Vladimir Putin met in Shenzhen ahead of a first-ever three-way summit with
-President Trump. The picture in assets/entry.png shows the strait at dusk: a
-missile climbing from a rocky island, a swarm of drones crossing the sky,
-tracer fire arcing over the water, and a warship and an oil tanker silhouetted
-below -- the world's most important oil chokepoint under fire.
+President Trump. The picture in assets/entry.png shows the strait from the air at dawn: on a
+rocky island shore a missile site lies wrecked and burning after the strike,
+one dark column of smoke rising from it, while a line of oil tankers under
+naval escort threads the channel below and aircraft cross the sky above --
+the world's most important oil chokepoint on the morning it was hit.
+A caption band along the bottom names the day -- 18 November 2026 -- and the
+two beats of the story, so the frame reads as that day's news at a glance.
 
 This program validates the bundled image against the competition's own caps
 (real PNG, at most 1024x1024, at most 1 MiB) and writes it, byte for byte, to
